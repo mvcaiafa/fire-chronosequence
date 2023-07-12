@@ -1,0 +1,282 @@
+﻿sample_id,fire,year,severity,plot,depth,Run
+BC_C1_D1_B,badger creek,2018,control,P1,D,LB1
+BC_C1_D2_B,badger creek,2018,control,P1,D,LB1
+BC_C1_D3_B,badger creek,2018,control,P1,D,LB1
+BC_C1_S1_B,badger creek,2018,control,P1,S,LB1
+BC_C1_S2_B,badger creek,2018,control,P1,S,LB1
+BC_C1_S3_B,badger creek,2018,control,P1,S,LB1
+BC_C2_D1_B,badger creek,2018,control,P2,D,LB1
+BC_C2_D2_B,badger creek,2018,control,P2,D,LB1
+BC_C2_D3_B,badger creek,2018,control,P2,D,LB1
+BC_C2_S1_B,badger creek,2018,control,P2,S,LB1
+BC_C2_S2_B,badger creek,2018,control,P2,S,LB1
+BC_C2_S3_B,badger creek,2018,control,P2,S,LB1
+BC_C3_D1_B,badger creek,2018,control,P3,D,LB1
+BC_C3_D2_B,badger creek,2018,control,P3,D,LB1
+BC_C3_D3_B,badger creek,2018,control,P3,D,LB2
+BC_C3_S1_B,badger creek,2018,control,P3,S,LB1
+BC_C3_S2_B,badger creek,2018,control,P3,S,LB1
+BC_C3_S3_B,badger creek,2018,control,P3,S,LB1
+BC_C4_D1_B,badger creek,2018,control,P4,D,LB1
+BC_C4_D2_B,badger creek,2018,control,P4,D,LB1
+BC_C4_D3_B,badger creek,2018,control,P4,D,LB1
+BC_C4_S1_B,badger creek,2018,control,P4,S,LB1
+BC_C4_S2_B,badger creek,2018,control,P4,S,LB1
+BC_C4_S3_B,badger creek,2018,control,P4,S,LB1
+BC_H1_D1_B,badger creek,2018,high,P1,D,LB2
+BC_H1_D2_B,badger creek,2018,high,P1,D,LB2
+BC_H1_D3_B,badger creek,2018,high,P1,D,LB1
+BC_H1_S1_B,badger creek,2018,high,P1,S,LB2
+BC_H1_S2_B,badger creek,2018,high,P1,S,LB1
+BC_H1_S3_B,badger creek,2018,high,P1,S,LB2
+BC_H2_D1_B,badger creek,2018,high,P2,D,LB1
+BC_H2_D2_B,badger creek,2018,high,P2,D,LB1
+BC_H2_D3_B,badger creek,2018,high,P2,D,LB1
+BC_H2_S1_B,badger creek,2018,high,P2,S,LB2
+BC_H2_S2_B,badger creek,2018,high,P2,S,LB1
+BC_H2_S3_B,badger creek,2018,high,P2,S,LB1
+BC_H3_D1_B,badger creek,2018,high,P3,D,LB2
+BC_H3_D2_B,badger creek,2018,high,P3,D,LB1
+BC_H3_D3_B,badger creek,2018,high,P3,D,LB2
+BC_H3_S1_B,badger creek,2018,high,P3,S,LB2
+BC_H3_S2_B,badger creek,2018,high,P3,S,LB1
+BC_H3_S3_B,badger creek,2018,high,P3,S,LB1
+BC_H4_D1_B,badger creek,2018,high,P4,D,LB2
+BC_H4_D2_B,badger creek,2018,high,P4,D,LB2
+BC_H4_D3_B,badger creek,2018,high,P4,D,LB2
+BC_H4_S1_B,badger creek,2018,high,P4,S,LB2
+BC_H4_S2_B,badger creek,2018,high,P4,S,LB2
+BC_H4_S3_B,badger creek,2018,high,P4,S,LB2
+BC_L1_D1_B,badger creek,2018,low,P1,D,LB2
+BC_L1_D2_B,badger creek,2018,low,P1,D,LB2
+BC_L1_D3_B,badger creek,2018,low,P1,D,LB2
+BC_L1_S1_B,badger creek,2018,low,P1,S,LB1
+BC_L1_S2_B,badger creek,2018,low,P1,S,LB1
+BC_L1_S3_B,badger creek,2018,low,P1,S,LB1
+BC_L2_D1_B,badger creek,2018,low,P2,D,LB2
+BC_L2_D2_B,badger creek,2018,low,P2,D,LB2
+BC_L2_D3_B,badger creek,2018,low,P2,D,LB2
+BC_L2_S1_B,badger creek,2018,low,P2,S,LB1
+BC_L2_S2_B,badger creek,2018,low,P2,S,LB1
+BC_L2_S3_B,badger creek,2018,low,P2,S,LB1
+BC_L3_D1_B,badger creek,2018,low,P3,D,LB1
+BC_L3_D2_B,badger creek,2018,low,P3,D,LB1
+BC_L3_D3_B,badger creek,2018,low,P3,D,LB2
+BC_L3_S1_B,badger creek,2018,low,P3,S,LB1
+BC_L3_S2_B,badger creek,2018,low,P3,S,LB1
+BC_L3_S3_B,badger creek,2018,low,P3,S,LB1
+BC_L4_D1_B,badger creek,2018,low,P4,D,LB2
+BC_L4_D2_B,badger creek,2018,low,P4,D,LB2
+BC_L4_D3_B,badger creek,2018,low,P4,D,LB1
+BC_L4_S1_B,badger creek,2018,low,P4,S,LB1
+BC_L4_S2_B,badger creek,2018,low,P4,S,LB1
+BC_L4_S3_B,badger creek,2018,low,P4,S,LB1
+BV_C1_D1_B,beaver creek,2016,control,P1,D,LB1
+BV_C1_D2_B,beaver creek,2016,control,P1,D,LB1
+BV_C1_D3_B,beaver creek,2016,control,P1,D,LB1
+BV_C1_S1_B,beaver creek,2016,control,P1,S,LB1
+BV_C1_S2_B,beaver creek,2016,control,P1,S,LB1
+BV_C1_S3_B,beaver creek,2016,control,P1,S,LB1
+BV_C2_D1_B,beaver creek,2016,control,P2,D,LB1
+BV_C2_D2_B,beaver creek,2016,control,P2,D,LB1
+BV_C2_D3_B,beaver creek,2016,control,P2,D,LB2
+BV_C2_S1_B,beaver creek,2016,control,P2,S,LB1
+BV_C2_S2_B,beaver creek,2016,control,P2,S,LB1
+BV_C2_S3_B,beaver creek,2016,control,P2,S,LB1
+BV_C3_D1_B,beaver creek,2016,control,P3,D,LB2
+BV_C3_D2_B,beaver creek,2016,control,P3,D,LB2
+BV_C3_D3_B,beaver creek,2016,control,P3,D,LB2
+BV_C3_S1_B,beaver creek,2016,control,P3,S,LB2
+BV_C3_S2_B,beaver creek,2016,control,P3,S,LB2
+BV_C3_S3_B,beaver creek,2016,control,P3,S,LB2
+BV_H1_D1_B,beaver creek,2016,high,P1,D,LB1
+BV_H1_D2_B,beaver creek,2016,high,P1,D,LB1
+BV_H1_D3_B,beaver creek,2016,high,P1,D,LB1
+BV_H1_S1_B,beaver creek,2016,high,P1,S,LB1
+BV_H1_S2_B,beaver creek,2016,high,P1,S,LB1
+BV_H1_S3_B,beaver creek,2016,high,P1,S,LB1
+BV_H2_D1_B,beaver creek,2016,high,P2,D,LB1
+BV_H2_D2_B,beaver creek,2016,high,P2,D,LB1
+BV_H2_D3_B,beaver creek,2016,high,P2,D,LB1
+BV_H2_S1_B,beaver creek,2016,high,P2,S,LB1
+BV_H2_S2_B,beaver creek,2016,high,P2,S,LB1
+BV_H2_S3_B,beaver creek,2016,high,P2,S,LB1
+BV_H3_D1_B,beaver creek,2016,high,P3,D,LB2
+BV_H3_S2_B,beaver creek,2016,high,P3,S,LB2
+BV_H3_S3_B,beaver creek,2016,high,P3,S,LB2
+BV_L1_D1_B,beaver creek,2016,low,P1,D,LB1
+BV_L1_D2_B,beaver creek,2016,low,P1,D,LB1
+BV_L1_D3_B,beaver creek,2016,low,P1,D,LB1
+BV_L1_S1_B,beaver creek,2016,low,P1,S,LB1
+BV_L1_S2_B,beaver creek,2016,low,P1,S,LB1
+BV_L1_S3_B,beaver creek,2016,low,P1,S,LB1
+BV_L2_D1_B,beaver creek,2016,low,P2,D,LB1
+BV_L2_D2_B,beaver creek,2016,low,P2,D,LB1
+BV_L2_S1_B,beaver creek,2016,low,P2,S,LB1
+BV_L2_S2_B,beaver creek,2016,low,P2,S,LB1
+BV_L2_S3_B,beaver creek,2016,low,P2,S,LB1
+BV_L3_D1_B,beaver creek,2016,low,P3,D,LB2
+BV_L3_D2_B,beaver creek,2016,low,P3,D,LB2
+BV_L3_D3_B,beaver creek,2016,low,P3,D,LB2
+BV_L3_S2_B,beaver creek,2016,low,P3,S,LB2
+BV_L3_S3_B,beaver creek,2016,low,P3,S,LB2
+CP_C1_D1_B,church park,2010,control,P1,D,LB2
+CP_C1_D2_B,church park,2010,control,P1,D,LB2
+CP_C1_D2_B1,church park,2010,control,P1,D,LB2
+CP_C1_S1_B,church park,2010,control,P1,S,LB2
+CP_C1_S2_B,church park,2010,control,P1,S,LB2
+CP_C1_S3_B,church park,2010,control,P1,S,LB2
+CP_C2_D1_B,church park,2010,control,P2,D,LB2
+CP_C2_D2_B,church park,2010,control,P2,D,LB2
+CP_C2_D3_B,church park,2010,control,P2,D,LB2
+CP_C2_S1_B,church park,2010,control,P2,S,LB2
+CP_C2_S2_B,church park,2010,control,P2,S,LB2
+CP_C2_S3_B,church park,2010,control,P2,S,LB2
+CP_C3_D1_B,church park,2010,control,P3,D,LB2
+CP_C3_D2_B,church park,2010,control,P3,D,LB2
+CP_C3_D3_B,church park,2010,control,P3,D,LB2
+CP_C3_S1_B,church park,2010,control,P3,S,LB2
+CP_C3_S2_B,church park,2010,control,P3,S,LB2
+CP_C3_S3_B,church park,2010,control,P3,S,LB2
+CP_H1_D1_B,church park,2010,high,P1,D,LB2
+CP_H1_D2_B,church park,2010,high,P1,D,LB2
+CP_H1_S1_B,church park,2010,high,P1,S,LB2
+CP_H1_S2_B,church park,2010,high,P1,S,LB2
+CP_H1_S3_B,church park,2010,high,P1,S,LB2
+CP_H2_D1_B,church park,2010,high,P2,D,LB2
+CP_H2_D2_B,church park,2010,high,P2,D,LB2
+CP_H2_D3_B,church park,2010,high,P2,D,LB2
+CP_H2_S1_B,church park,2010,high,P2,S,LB2
+CP_H2_S2_B,church park,2010,high,P2,S,LB2
+CP_H2_S3_B,church park,2010,high,P2,S,LB2
+CP_H3_D1_B,church park,2010,high,P3,D,LB1
+CP_H3_D2_B.1,church park,2010,high,P3,D,LB1
+CP_H3_D2_B.2,church park,2010,high,P3,D,LB1
+CP_H3_S1_B,church park,2010,high,P3,S,LB1
+CP_H3_S2_B,church park,2010,high,P3,S,LB1
+CP_H3_S3_B,church park,2010,high,P3,S,LB1
+CP_L1_D1_B,church park,2010,low,P1,D,LB2
+CP_L1_D2_B,church park,2010,low,P1,D,LB2
+CP_L1_D3_B,church park,2010,low,P1,D,LB2
+CP_L1_S1_B,church park,2010,low,P1,S,LB2
+CP_L1_S2_B,church park,2010,low,P1,S,LB2
+CP_L1_S3_B,church park,2010,low,P1,S,LB2
+CP_L2_D1_B,church park,2010,low,P2,D,LB2
+CP_L2_D2_B,church park,2010,low,P2,D,LB2
+CP_L2_D3_B,church park,2010,low,P2,D,LB2
+CP_L2_S1_B,church park,2010,low,P2,S,LB2
+CP_L2_S2_B,church park,2010,low,P2,S,LB2
+CP_L2_S3_B,church park,2010,low,P2,S,LB2
+CP_L3_D1_B,church park,2010,low,P3,D,LB1
+CP_L3_D2_B.1,church park,2010,low,P3,D,LB1
+CP_L3_D2_B.2,church park,2010,low,P3,D,LB1
+CP_L3_S1_B,church park,2010,low,P3,S,LB2
+CP_L3_S2_B,church park,2010,low,P3,S,LB1
+CP_L3_S3_B,church park,2010,low,P3,S,LB1
+M_C1_D1_B,mullen,2020,control,P1,D,LB1
+M_C1_D2_B,mullen,2020,control,P1,D,LB1
+M_C1_D3_B,mullen,2020,control,P1,D,LB1
+M_C1_S1_B,mullen,2020,control,P1,S,LB1
+M_C1_S2_B,mullen,2020,control,P1,S,LB1
+M_C1_S3_B,mullen,2020,control,P1,S,LB1
+M_C2_D1_B,mullen,2020,control,P2,D,LB1
+M_C2_D2_B,mullen,2020,control,P2,D,LB1
+M_C2_D3_B,mullen,2020,control,P2,D,LB1
+M_C2_S1_B,mullen,2020,control,P2,S,LB1
+M_C2_S2_B,mullen,2020,control,P2,S,LB1
+M_C2_S3_B,mullen,2020,control,P2,S,LB1
+M_C3_D1_B,mullen,2020,control,P3,D,LB2
+M_C3_D2_B,mullen,2020,control,P3,D,LB2
+M_C3_D3_B,mullen,2020,control,P3,D,LB2
+M_C3_S1_B,mullen,2020,control,P3,S,LB1
+M_C3_S2_B,mullen,2020,control,P3,S,LB1
+M_C3_S3_B,mullen,2020,control,P3,S,LB1
+M_H1_D1_B,mullen,2020,high,P1,D,LB2
+M_H1_D2_B,mullen,2020,high,P1,D,LB1
+M_H1_D3_B,mullen,2020,high,P1,D,LB1
+M_H1_S1_B,mullen,2020,high,P1,S,LB2
+M_H1_S2_B,mullen,2020,high,P1,S,LB2
+M_H1_S3_B,mullen,2020,high,P1,S,LB2
+M_H2_D1_B,mullen,2020,high,P2,D,LB2
+M_H2_D2_B,mullen,2020,high,P2,D,LB1
+M_H2_D3_B,mullen,2020,high,P2,D,LB2
+M_H2_S1_B,mullen,2020,high,P2,S,LB2
+M_H2_S2_B,mullen,2020,high,P2,S,LB2
+M_H2_S3_B,mullen,2020,high,P2,S,LB2
+M_H3_D1_B,mullen,2020,high,P3,D,LB2
+M_H3_D2_B,mullen,2020,high,P3,D,LB2
+M_H3_D3_B,mullen,2020,high,P3,D,LB2
+M_H3_S1_B,mullen,2020,high,P3,S,LB2
+M_H3_S2_B,mullen,2020,high,P3,S,LB2
+M_H3_S3_B,mullen,2020,high,P3,S,LB2
+M_L1_D1_B,mullen,2020,low,P1,D,LB1
+M_L1_D2_B,mullen,2020,low,P1,D,LB1
+M_L1_D3_B,mullen,2020,low,P1,D,LB2
+M_L1_S1_B,mullen,2020,low,P1,S,LB2
+M_L1_S2_B,mullen,2020,low,P1,S,LB1
+M_L1_S3_B,mullen,2020,low,P1,S,LB2
+M_L2_D1_B,mullen,2020,low,P2,D,LB1
+M_L2_D2_B,mullen,2020,low,P2,D,LB1
+M_L2_D3_B,mullen,2020,low,P2,D,LB1
+M_L2_S1_B,mullen,2020,low,P2,S,LB1
+M_L2_S2_B,mullen,2020,low,P2,S,LB1
+M_L2_S3_B,mullen,2020,low,P3,S,LB2
+M_L3_D1_B,mullen,2020,low,P3,D,LB1
+M_L3_D2_B,mullen,2020,low,P3,D,LB2
+M_L3_D3_B,mullen,2020,low,P3,D,LB1
+M_L3_S1_B,mullen,2020,low,P3,S,LB1
+M_L3_S3_B,mullen,2020,low,P3,S,LB1
+R_C1_D1_B,ryan,2018,control,P1,D,LB2
+R_C1_D2_B,ryan,2018,control,P1,D,LB2
+R_C1_D3_B,ryan,2018,control,P1,D,LB2
+R_C1_S1_B,ryan,2018,control,P1,S,LB1
+R_C1_S2_B,ryan,2018,control,P1,S,LB1
+R_C1_S3_B,ryan,2018,control,P1,S,LB1
+R_C2_D1_B,ryan,2018,control,P2,D,LB2
+R_C2_D2_B,ryan,2018,control,P2,D,LB2
+R_C2_D3_B,ryan,2018,control,P2,D,LB2
+R_C2_S1_B,ryan,2018,control,P2,S,LB1
+R_C2_S2_B,ryan,2018,control,P2,S,LB1
+R_C2_S3_B,ryan,2018,control,P2,S,LB1
+R_C3_D1_B,ryan,2018,control,P3,D,LB1
+R_C3_D2_B,ryan,2018,control,P3,D,LB2
+R_C3_D3_B,ryan,2018,control,P3,D,LB2
+R_C3_S1_B,ryan,2018,control,P3,S,LB1
+R_C3_S2_B,ryan,2018,control,P3,S,LB1
+R_C3_S3_B,ryan,2018,control,P3,S,LB1
+R_H1_D1_B,ryan,2018,high,P1,D,LB2
+R_H1_D2_B,ryan,2018,high,P1,D,LB2
+R_H1_D3_B,ryan,2018,high,P1,D,LB2
+R_H1_S1_B,ryan,2018,high,P1,S,LB2
+R_H1_S2_B,ryan,2018,high,P1,S,LB2
+R_H1_S3_B,ryan,2018,high,P1,S,LB2
+R_H2_D1_B,ryan,2018,high,P2,D,LB2
+R_H2_D2_B,ryan,2018,high,P2,D,LB2
+R_H2_D3_B,ryan,2018,high,P2,D,LB2
+R_H2_S1_B,ryan,2018,high,P2,S,LB2
+R_H2_S2_B,ryan,2018,high,P2,S,LB2
+R_H2_S3_B,ryan,2018,high,P2,S,LB2
+R_H3_D1_B,ryan,2018,high,P3,D,LB2
+R_H3_D2_B,ryan,2018,high,P3,D,LB2
+R_H3_D3_B,ryan,2018,high,P3,D,LB2
+R_H3_S1_B,ryan,2018,high,P3,S,LB2
+R_H3_S2_B,ryan,2018,high,P3,S,LB1
+R_H3_S3_B,ryan,2018,high,P3,S,LB2
+R_L1_D1_B,ryan,2018,low,P1,D,LB1
+R_L1_D2_B,ryan,2018,low,P1,D,LB2
+R_L1_D3_B,ryan,2018,low,P1,D,LB2
+R_L1_S1_B,ryan,2018,low,P1,S,LB1
+R_L1_S2_B,ryan,2018,low,P1,S,LB2
+R_L1_S3_B,ryan,2018,low,P1,S,LB2
+R_L2_D1_B,ryan,2018,low,P2,D,LB2
+R_L2_D2_B,ryan,2018,low,P2,D,LB2
+R_L2_D3_B,ryan,2018,low,P2,D,LB2
+R_L2_S1_B,ryan,2018,low,P2,S,LB2
+R_L2_S2_B,ryan,2018,low,P2,S,LB2
+R_L2_S3_B,ryan,2018,low,P2,S,LB2
+R_L3_D1_B,ryan,2018,low,P3,D,LB2
+R_L3_D2_B,ryan,2018,low,P3,D,LB1
+R_L3_D3_B,ryan,2018,low,P3,D,LB1
+R_L3_S1_B,ryan,2018,low,P3,S,LB2
+R_L3_S2_B,ryan,2018,low,P3,S,LB1
+R_L3_S3_B,ryan,2018,low,P3,S,LB1
